@@ -1,0 +1,7 @@
+# Main dependencies
+yt-dlp>=2023.12.30
+ffmpeg-python>=0.2.0
+ttkthemes>=3.2.2
+pillow>=10.0.0
+pyinstaller>=6.3.0
+requests
